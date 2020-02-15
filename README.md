@@ -10,6 +10,6 @@ Command to run this tools
 - And Have Fun.. ^^
 
 <p align="center">
-  <img src="/vsp/vsp.png" width="350" title="hover text">
+  <img src="vsp.png" width="350" title="hover text">
 </p>
 <img src="https://cdn.rawgit.com/deathdies/vsp/vsp.png" />
