@@ -8,4 +8,4 @@ Command to run this tools
 - chmod +x vsp.sh
 - ./vsp.sh
 - And Have Fun.. ^^
-<p align="center"><img src="vsp.png" width="350" title="VSP"></p>
+<img src="vsp.png" width="350" title="VSP">
