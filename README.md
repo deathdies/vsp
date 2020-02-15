@@ -8,8 +8,4 @@ Command to run this tools
 - chmod +x vsp.sh
 - ./vsp.sh
 - And Have Fun.. ^^
-
-<p align="center">
-  <img src="vsp.png" width="350" title="hover text">
-</p>
-<img src="https://cdn.rawgit.com/deathdies/vsp/vsp.png" />
+<p align="center"><img src="vsp.png" width="350" title="VSP"></p>
