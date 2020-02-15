@@ -9,4 +9,4 @@ Command to run this tools
 - ./vsp.sh
 - And Have Fun.. ^^
 
-[[https://github.com/deathdies/vsp/blob/master/vsp.png|alt=octocat]]
+![In a single picture](https://raw.githubusercontent.com/deathdies/vsp.png)
